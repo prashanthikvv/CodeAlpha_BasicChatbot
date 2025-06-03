@@ -1,2 +1,2 @@
-# CodeAlpha_BasicChatbot
+# BasicChatbot
 This is a basic chatbot.
